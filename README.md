@@ -1,6 +1,6 @@
-<h1>Hi, I'm Tripp! <br/><a </h1>
+<h1>Hi, I'm Tripp! <br/></h1>
   
-<b>I am student at the University of Georgia majoring in Data Science with a minor in General Business. I have a strong interest in business and data analytics, and love using real world numbers to solve problems.</b>
+<p>I am student at the University of Georgia majoring in Data Science with a minor in General Business. I have a strong interest in business and data analytics, and love using real world numbers to solve problems.</p>
 
 <h2>Machine Learning and Data Analytics Projects:</h2>
 
