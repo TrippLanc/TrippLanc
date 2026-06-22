@@ -1,4 +1,6 @@
 <h1>Hi, I'm Tripp! <br/><a </h1>
+  
+<b>I am student at the University of Georgia majoring in Data Science with a minor in General Business. I have a strong interest in business and data analytics, and love using real world numbers to solve problems.</b>
 
 <h2>Machine Learning and Data Analytics Projects:</h2>
 
@@ -7,6 +9,11 @@
 - <b>Data Analytics</b>
   - [MLB Historical Performance Analysis](https://github.com/TrippLanc/mlb-historical-performance-analysis)
 
+<h2>Certifications:</h2>
+
+- [Python Data Associate - DataCamp](https://www.datacamp.com/certificate/PDA0014614029767)
+
+- [SQL Associate - DataCamp](https://www.datacamp.com/certificate/SQA0016830623679)
 
 <h2> Connect with me:</h2>
 
