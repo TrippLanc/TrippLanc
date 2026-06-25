@@ -6,6 +6,7 @@
 
 - <b> Machine Learning</b>
   - [Movie Revenue Predictor](https://github.com/TrippLanc/movie-revenue-prediction)
+  - [Logistics Demand Forecaster](https://github.com/TrippLanc/logistics-demand-forecaster)
 - <b>Data Analytics</b>
   - [MLB Historical Performance Analysis](https://github.com/TrippLanc/mlb-historical-performance-analysis)
 
