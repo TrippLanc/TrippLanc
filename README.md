@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tripp! <br/></h1>
   
-<p>I am a data science sophomore at the University of Georgia (GPA 3.8) with hands-on experience building ETL pipelines in PostgreSQL and predictive models in Python. Seeking a Data Analyst or Business Intelligence Intern role where I can apply data visualization and machine learning skills to drive business decisions.</p>
+<p>I am a data science sophomore at the University of Georgia with hands-on experience building ETL pipelines in PostgreSQL and predictive models in Python. Seeking a Data Analyst or Business Intelligence Intern role where I can apply data visualization and machine learning skills to drive business decisions.</p>
 
 <h2>Machine Learning and Data Analytics Projects:</h2>
 
